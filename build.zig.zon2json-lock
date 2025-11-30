@@ -1,0 +1,7 @@
+{
+  "wayland-0.4.0-lQa1khbMAQAsLS2eBR7M5lofyEGPIbu2iFDmoz8lPC27": {
+    "name": "wayland",
+    "url": "https://github.com/ifreund/zig-wayland/archive/refs/tags/v0.4.0.zip",
+    "hash": "sha256-EMQM3ch2xSBhLxb6a2hUy8WONCuAVWM8jtJIkh2GtA0="
+  }
+}
